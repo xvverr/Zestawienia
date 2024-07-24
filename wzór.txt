@@ -35,13 +35,13 @@
                     ZAKOPANE (p. 3:19)</td>
             </tr>
             <tr>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/su42-529.bmp"></td>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/s_111a.bmp"></td>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/b_141a.bmp"></td>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/ab.bmp"></td>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/as_112A.bmp"></td>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/as_gorlitz78.bmp"></td>
-                <td><img src="https://raw.githubusercontent.com/xvverr/Zestawienia/main/grafiki/b_gorlitz78.bmp"></td>
+                <td><img src="grafiki/su42-529.bmp"></td>
+                <td><img src="grafiki/s_111a.bmp"></td>
+                <td><img src="grafiki/b_141a.bmp"></td>
+                <td><img src="grafiki/ab.bmp"></td>
+                <td><img src="grafiki/as_112A.bmp"></td>
+                <td><img src="grafiki/as_gorlitz78.bmp"></td>
+                <td><img src="grafiki/b_gorlitz78.bmp"></td>
             </tr>
             <tr>
                 <td colspan="100">
