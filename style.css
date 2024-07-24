@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+#naglowek {
+    background-color: #868686;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#menu {
+    background-color: #4fc2ba;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.przycisk-menu {
+    font-family: Verdana;
+    color: white;
+    font-size: 20px;
+    height: auto;
+    width: auto;
+    border: none;
+    background-color: transparent;
+}
+
+.przycisk-menu:hover {
+    transition-duration: 0.5s;
+    background-color: aquamarine;
+}
+
+.tresc {
+    padding-top: 5px;
+    padding-left: 10px;
+    font-family: Verdana;
+}
