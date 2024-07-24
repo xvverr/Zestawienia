@@ -1,7 +1,7 @@
       <table>
       <tr>
         <th>TLK 30390/1 Bachleda</th>
-        <p style="font-size: 0.5em;">KRAKÓW GŁÓWNY (o. 23:04) - Kalwaria Zebrzydowska (p. 23:48 - o. 23:52) - Andrychów (p. 0:17 - o. 0:17) - Kęty (p. 0:24 - o. 0:24) - Bielsko-Biała Główna (p. 0:39 - o. 0:56) - Żywiec (p. 1:11 - o. 1:37 ZKJ) - Sucha Beskidzka (p. 1:54 - o. 2:02) - Maków Podhalański (p. 2:06 - o. 2:06) - Chabówka (p. 2:21 - o. 2:47 ZKJ) - Nowy Targ (p. 2:59 - o. 3:01) - Poronin (p. 3:13 - o. 3:15) - ZAKOPANE (p. 3:19)</p>
+        <p style="font-size: 1em;">KRAKÓW GŁÓWNY (o. 23:04) - Kalwaria Zebrzydowska (p. 23:48 - o. 23:52) - Andrychów (p. 0:17 - o. 0:17) - Kęty (p. 0:24 - o. 0:24) - Bielsko-Biała Główna (p. 0:39 - o. 0:56) - Żywiec (p. 1:11 - o. 1:37 ZKJ) - Sucha Beskidzka (p. 1:54 - o. 2:02) - Maków Podhalański (p. 2:06 - o. 2:06) - Chabówka (p. 2:21 - o. 2:47 ZKJ) - Nowy Targ (p. 2:59 - o. 3:01) - Poronin (p. 3:13 - o. 3:15) - ZAKOPANE (p. 3:19)</p>
       </tr>
       <tr>
         <td><img src="grafiki/su42-529.bmp"></td>
